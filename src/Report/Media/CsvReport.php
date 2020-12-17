@@ -10,7 +10,7 @@ namespace ZhyuReport\Report\Media;
 
 use League\Csv\Writer;
 use App, Closure, Exception;
-use Zhyu\Report\ReportGenerator;
+use ZhyuReport\Report\ReportGenerator;
 
 class CsvReport extends ReportGenerator
 {
