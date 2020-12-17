@@ -11,7 +11,7 @@ namespace ZhyuReport\Report;
 
 use ZhyuReport\Facades\CsvReport;
 use ZhyuReport\Facades\PdfReport;
-use ZhyuReport\Repositories\Criterias\Common\OrderByCustom;
+use Zhyu\Repositories\Criterias\Common\OrderByCustom;
 
 abstract class ReportAbstract
 {
