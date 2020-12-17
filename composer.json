@@ -21,12 +21,12 @@
   },
   "autoload": {
      "psr-4": {
-       "Zhyu\\": "src/"
+       "ZhyuReport\\": "src/"
     }
   },
   "autoload-dev": {
      "psr-4": {
-       "Zhyu\\Tests\\Report\\": "tests/"
+       "ZhyuReport\\Tests\\": "tests/"
     }
   },
   "extra": {
@@ -35,12 +35,12 @@
     },
     "laravel": {
        "providers": [
-         "Zhyu\\ZhyuServiceProvider"
+         "ZhyuReport\\ZhyuServiceProvider"
        ],
       "aliases": {
-        "PdfReport": "Zhyu\\Facades\\PdfReport",
-        "ExcelReport": "Zhyu\\Facades\\ExcelReport",
-        "CsvReport": "Zhyu\\Facades\\CsvReport::class"
+        "PdfReport": "ZhyuReport\\Facades\\PdfReport",
+        "ExcelReport": "ZhyuReport\\Facades\\ExcelReport",
+        "CsvReport": "ZhyuReport\\Facades\\CsvReport::class"
       }
     }
   },
