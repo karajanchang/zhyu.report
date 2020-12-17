@@ -9,7 +9,7 @@
 namespace ZhyuReport;
 
 use Illuminate\Support\ServiceProvider;
-use Zhyu\Commands\MakeReportCommand;
+use ZhyuReport\Commands\MakeReportCommand;
 
 use ZhyuReport\Report\Media\CsvReport;
 use ZhyuReport\Report\Media\ExcelReport;
