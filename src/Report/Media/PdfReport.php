@@ -6,10 +6,10 @@
  * Time: 17:01
  */
 
-namespace Zhyu\Report\Media;
+namespace ZhyuReport\Report\Media;
 
 
-use Zhyu\Report\ReportGenerator;
+use ZhyuReport\Report\ReportGenerator;
 
 class PdfReport extends ReportGenerator
 {

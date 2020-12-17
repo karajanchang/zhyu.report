@@ -1,6 +1,6 @@
 <?php
 
-namespace Zhyu\Report\Origin;
+namespace ZhyuReport\Report\Origin;
 
 use Illuminate\Support\Facades\Response;
 

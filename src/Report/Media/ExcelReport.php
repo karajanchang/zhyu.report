@@ -10,7 +10,7 @@ namespace Zhyu\Report\Media;
 
 
 use App, Closure;
-use Zhyu\Report\ReportGenerator;
+use ZhyuReport\Report\ReportGenerator;
 
 class ExcelReport extends ReportGenerator
 {

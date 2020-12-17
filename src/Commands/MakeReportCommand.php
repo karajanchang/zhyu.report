@@ -5,7 +5,7 @@
  * Date: 2019-04-07
  * Time: 10:46
  */
-namespace Zhyu\Commands;
+namespace ZhyuReport\Commands;
 
 use InvalidArgumentException;
 use Illuminate\Console\GeneratorCommand;

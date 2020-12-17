@@ -1,8 +1,8 @@
 <?php
 
-namespace Zhyu\Report;
+namespace ZhyuReport\Report;
 
-use Zhyu\Report\Origin\OriginCsv;
+use ZhyuReport\Report\Origin\OriginCsv;
 
 abstract class ReportOriginAbstract implements ReportInterface
 {

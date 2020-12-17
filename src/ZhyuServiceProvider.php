@@ -6,16 +6,16 @@
  * Time: 05:36
  */
 
-namespace Zhyu;
+namespace ZhyuReport;
 
 use Illuminate\Support\ServiceProvider;
 use Zhyu\Commands\MakeReportCommand;
 
-use Zhyu\Report\Media\CsvReport;
-use Zhyu\Report\Media\ExcelReport;
-use Zhyu\Report\Media\PdfReport;
-use Zhyu\Report\ReportFactory;
-use Zhyu\Report\ReportService;
+use ZhyuReport\Report\Media\CsvReport;
+use ZhyuReport\Report\Media\ExcelReport;
+use ZhyuReport\Report\Media\PdfReport;
+use ZhyuReport\Report\ReportFactory;
+use ZhyuReport\Report\ReportService;
 
 
 class ZhyuServiceProvider extends ServiceProvider

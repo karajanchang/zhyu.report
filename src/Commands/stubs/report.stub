@@ -9,8 +9,8 @@
 namespace DummyNamespace;
 
 use App\Repositories\DummyRepository;
-use Zhyu\Report\ReportAbstract;
-use Zhyu\Report\ReportInterface;
+use ZhyuReport\Report\ReportAbstract;
+use ZhyuReport\Report\ReportInterface;
 
 class DummyClass extends ReportAbstract implements ReportInterface
 {

@@ -6,7 +6,7 @@
  * Time: 11:17
  */
 
-namespace Zhyu\Report;
+namespace ZhyuReport\Report;
 
 use Illuminate\Support\Collection;
 

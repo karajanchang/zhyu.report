@@ -6,7 +6,7 @@
  * Time: 17:06
  */
 
-namespace Zhyu\Report;
+namespace ZhyuReport\Report;
 
 
 use Config;

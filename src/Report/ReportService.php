@@ -6,7 +6,7 @@
  * Time: 11:44
  */
 
-namespace Zhyu\Report;
+namespace ZhyuReport\Report;
 
 
 class ReportService

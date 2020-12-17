@@ -6,12 +6,12 @@
  * Time: 11:51
  */
 
-namespace Zhyu\Report;
+namespace ZhyuReport\Report;
 
 
-use Zhyu\Facades\CsvReport;
-use Zhyu\Facades\PdfReport;
-use Zhyu\Repositories\Criterias\Common\OrderByCustom;
+use ZhyuReport\Facades\CsvReport;
+use ZhyuReport\Facades\PdfReport;
+use ZhyuReport\Repositories\Criterias\Common\OrderByCustom;
 
 abstract class ReportAbstract
 {

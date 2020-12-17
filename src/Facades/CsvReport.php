@@ -6,7 +6,7 @@
  * Time: 13:29
  */
 
-namespace Zhyu\Facades;
+namespace ZhyuReport\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
