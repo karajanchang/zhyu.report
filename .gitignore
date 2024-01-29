@@ -15,6 +15,5 @@ yarn-error.log
 /public/pics
 /public/upload
 /storage
-composer.lock
 .DS_Store*
 /datatable/migrations
